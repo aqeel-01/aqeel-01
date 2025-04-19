@@ -14,12 +14,6 @@ Exploring the vast field of **Machine Learning **, with a focus on developing pr
 - Building **scalable ML systems** that can be deployed in production.
 - Research or development around **natural language processing** 
 
-# 📫 How to reach me...
-You can connect with me via:
-- **Email:** [your-email@example.com](mailto:your-email@example.com)
-- **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
-- **Twitter:** [@your-twitter-handle](https://twitter.com/your-twitter-handle)
-
 # 😄 Pronouns: He/Him
 
 # ⚡ Fun fact:...
