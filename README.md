@@ -1,13 +1,12 @@
 
 
 # 👀 I’m interested in...
-Exploring the vast field of **Machine Learning **, with a focus on developing practical, efficient, and scalable AI solutions. I’m passionate about the application of machine learning models in real-world problems, deep learning, and reinforcement learning.
+Exploring the vast field of Machine Learning , with a focus on developing practical, efficient, and scalable AI solutions. I’m passionate about the application of machine learning models in real-world problems.
 
 # 🌱 I’m currently learning...
 - **Advanced machine learning algorithms**
 - **Deep learning architectures** like CNNs, RNNs, and GANs
-- **Reinforcement learning** for autonomous systems
-- **ML deployment** using cloud platforms and containerization (Docker, Kubernetes)
+
 
 # 💞️ I’m looking to collaborate on...
 - **AI/ML projects** that focus on solving real-world problems.
